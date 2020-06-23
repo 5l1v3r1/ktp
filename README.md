@@ -6,6 +6,7 @@ Team : Black Coders Anonymous x AnonRoz Team
 
 # Requirements
 ```
+- Termux Permission Storage
 - Python 2.7
 - Module requests
 - Url KTP "Index Of"
